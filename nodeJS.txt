@@ -1,0 +1,200 @@
+Currency conversion
+Weather information
+Generate PDF documents
+Calendar and event management
+Booking and reservations
+Chat messaging system
+Conduct surveys/polls
+QR code generator
+Text to Speech
+Speech to Text
+Create a project
+Update project details
+Delete a project
+List all projects
+Assign users to a project
+Remove users from a project
+Update project status
+List tasks for a project
+Add a task to a project
+Update task status
+Track page views
+User activity log
+Generate sales report
+Generate user engagement report
+Real-time user monitoring
+Error logging and reporting
+Performance analytics
+Traffic sources analytics
+Audience segmentation
+A/B testing routes
+Post a comment
+Delete a comment
+Update a comment
+List all comments for a post
+Like a post/comment
+Unlike a post/comment
+Follow a user
+Unfollow a user
+Share content
+Retrieve feed based on follows
+Generate Auth token
+Validate Auth token
+OAuth authentication
+Role-based access control
+Encrypt user data
+Decrypt user data
+XSS protection
+CSRF protection
+Rate limiting
+Log security events
+Create a product
+Update product details
+Delete a product
+List all products
+Add to cart
+Remove from cart
+Update cart item quantity
+Checkout
+Process payment
+Generate order summary
+Track order status
+Add a new item
+Update an item
+Delete an item
+Retrieve an item
+List all items
+Export items to CSV
+Import items from CSV
+Filter items based on parameters
+Paginate query results
+Aggregate data (sum avg etc.)
+Send an email
+Receive email
+Send SMS notification
+Create a notification
+Mark notification as read
+List all notifications for a user
+Subscribe to a topic
+Unsubscribe from a topic
+Send push notification
+Upload a file
+Download a file
+Delete a file
+Update file metadata
+List all files for a user
+Serve static files
+Upload multiple files
+Convert file format
+Compress a file
+Register a new user
+User login/authentication
+Logout user
+Update user profile
+Retrieve user profile details
+Change user password
+Password reset email
+Verify email address
+Delete user account
+List all users (admin)
+Activate or deactivate user account
+`/generate-unique-id` - Generates a unique identifier.
+`/hash-data` - Hashes inputted data using a specified algorithm.
+`/validate-email` - Checks if an email address is valid and well-formed.
+`/compress-image` - Compresses an uploaded image file.
+`/generate-qr-code` - Creates a QR code from given text.
+`/currency-conversion` - Converts an amount from one currency to another.
+`/timestamp-to-date` - Converts a UNIX timestamp to a human-readable date.
+`/encrypt-text` - Encrypts text with a given encryption method.
+`/decrypt-text` - Decrypts text with a given decryption method.
+`/generate-password` - Generates a random strong password.
+`/text-to-speech` - Converts input text to spoken audio.
+`/weather-forecast` - Provides a weather forecast for a specified location.
+`/calculate-distance` - Calculates the distance between two geographical points.
+`/validate-password-strength` - Checks the strength of a password.
+`/barcode-generator` - Generates a barcode from a given string.
+`/sentiment-analysis` - Analyzes the sentiment of provided text.
+`/image-to-text` - Extracts text from an uploaded image file.
+`/generate-captcha` - Generates a captcha image and its solution.
+`/age-calculator` - Calculates age given a birthdate.
+`/pdf-to-text` - Extracts text from a PDF file.
+`/text-to-html` - Converts markdown or plain text to HTML.
+`/generate-uuid` - Generates a universally unique identifier.
+`/markdown-to-html` - Converts markdown text to HTML.
+`/image-resizer` - Resizes an uploaded image to specified dimensions.
+`/file-hash` - Calculates the hash of an uploaded file.
+`/detect-language` - Detects the language of the provided text.
+`/ip-lookup` - Provides details about a given IP address.
+`/spell-check` - Checks the spelling in the provided text.
+`/text-encryption` - Encrypts a text message.
+`/text-decryption` - Decrypts a text message.
+`/create-zip` - Creates a ZIP archive from uploaded files.
+`/extract-zip` - Extracts files from an uploaded ZIP archive.
+`/generate-sitemap` - Generates a sitemap from a list of URLs.
+`/audio-to-text` - Converts speech in an audio file to text.
+`/validate-iban` - Validates an International Bank Account Number (IBAN).
+`/calculate-bmi` - Calculates the Body Mass Index (BMI) from height and weight.
+`/resize-video` - Changes the resolution of an uploaded video file.
+`/detect-faces` - Detects faces in an uploaded image.
+`/generate-rss-feed` - Generates an RSS feed from given content.
+`/url-shortener` - Shortens a given URL.
+`/expand-url` - Expands a shortened URL to its original form.
+`/color-converter` - Converts colors between different formats (e.g. HEX to RGB).
+`/extract-audio` - Extracts audio from an uploaded video file.
+`/merge-pdfs` - Merges several PDF files into one.
+`/split-pdf` - Splits a PDF file into separate pages.
+`/calculate-retirement-age` - Calculates retirement age based on birth date.
+`/validate-regex` - Validates a regular expression against a string.
+`/generate-gravatar-url` - Generates a Gravatar URL from an email.
+`/optimize-css` - Minifies CSS to reduce file size.
+`/optimize-js` - Minifies JavaScript to reduce file size.
+`/check-ssl-certificate` - Checks the SSL certificate of a website.
+`/perform-traceroute` - Performs a traceroute to a specified host.
+`/convert-currency` - API endpoint for real-time currency conversion.
+`/svg-to-png` - Converts SVG images to PNG format.
+`/xml-to-json` - Converts XML data into JSON format.
+`/json-to-csv` - Converts JSON data into CSV format.
+`/calculate-website-worth` - Estimates the value of a website based on various metrics.
+`/find-duplicate-images` - Finds duplicate images in a set of uploaded files.
+`/generate-barcode` - Generates a variety of barcode formats from input text.
+`/parse-user-agent` - Parses a user agent string and returns browser and OS information.
+`/calculate-loan-interest` - Calculates loan interest and monthly payments.
+`/validate-vat-number` - Validates VAT numbers for businesses in the EU.
+`/perform-whois-lookup` - Performs a WHOIS lookup for a domain name.
+`/generate-todo-list` - Creates a simple to-do list from text input.
+`/create-pdf-invoice` - Generates a PDF invoice from form submission.
+`/generate-ical-event` - Creates an iCalendar event from input data.
+`/simulate-dns-lookup` - Simulates a DNS lookup for a given hostname.
+`/check-domain-availability` - Checks if a domain name is available for registration.
+`/generate-hmac` - Generates an HMAC for a given message and secret key.
+`/convert-time-zone` - Converts time from one timezone to another.
+`/calculate-golden-ratio` - Calculates the golden ratio for a given number.
+`/validate-json-schema` - Validates JSON against a provided schema.
+`/check-password-leak` - Checks if a password has been leaked online.
+`/generate-ascii-art` - Generates ASCII art from text.
+`/calculate-carbon-footprint` - Estimates the carbon footprint of a trip.
+`/roll-dice` - Simulates rolling dice and returns the result.
+`/flip-coin` - Simulates flipping a coin.
+`/magic-8-ball` - Simulates a Magic 8-Ball response.
+`/convert-audio-format` - Converts an audio file to a different format.
+`/generate-meta-tags` - Generates SEO-friendly meta tags for a website.
+`/calculate-fuel-cost` - Calculates the cost of fuel for a trip.
+`/parse-csv` - Parses CSV content and converts it to JSON.
+`/generate-vcard` - Generates a vCard from contact details.
+`/create-qr-code-wifi` - Creates a QR code for WiFi network credentials.
+`/generate-robots-txt` - Generates a robots.txt file with specified directives.
+`/text-to-morse-code` - Converts text to Morse code.
+`/morse-code-to-text` - Converts Morse code to plain text.
+`/calculate-pace` - Calculates running or cycling pace from distance and time.
+`/create-thumbnail` - Generates a thumbnail from an uploaded image.
+`/watermark-image` - Adds a watermark to an uploaded image.
+`/detect-plagiarism` - Checks text for possible plagiarism.
+`/parse-address` - Parses a physical address into components.
+`/generate-google-auth-token` - Generates a Google Authenticator token.
+`/calculate-heat-index` - Calculates the heat index from temperature and humidity.
+`/check-credit-card-validity` - Validates a credit card number.
+`/generate-hex-color` - Generates a random hex color code.
+`/check-dns-propagation` - Checks DNS propagation for a domain.
+`/create-meme` - Generates a meme from an image and text.
+`/screenshot-website` - Takes a screenshot of a specified website.
+`/calculate-body-fat-percentage` - Calculates body fat percentage based on various metrics.

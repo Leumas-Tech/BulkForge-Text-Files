@@ -1,0 +1,100 @@
+Addition
+Subtraction
+Multiplication
+Division
+Square root
+Exponentiation
+Logarithm (base 10)
+Natural logarithm
+Trigonometric functions (sine, cosine, tangent)
+Inverse trigonometric functions (arcsine, arccosine, arctangent)
+Hyperbolic functions (sinh, cosh, tanh)
+Inverse hyperbolic functions (arcsinh, arccosh, arctanh)
+Absolute value
+Ceiling (round up to the nearest integer)
+Floor (round down to the nearest integer)
+Modulo (remainder after division)
+Factorial
+Permutation
+Combination
+Greatest common divisor (GCD)
+Least common multiple (LCM)
+Binary to decimal conversion
+Decimal to binary conversion
+Decimal to hexadecimal conversion
+Hexadecimal to decimal conversion
+Rounding to a specified decimal place
+Percentage calculations
+Scientific notation conversion
+Coordinate transformations (polar to Cartesian, Cartesian to polar)
+Linear interpolation
+Quadratic equation solver
+Matrix addition
+Matrix subtraction
+Matrix multiplication
+Determinant of a matrix
+Matrix inversion
+Matrix transpose
+Complex number addition
+Complex number subtraction
+Complex number multiplication
+Complex number division
+Complex number magnitude
+Complex number phase angle
+Exponential moving average
+Weighted moving average
+Digital filter coefficients calculation
+Signal power calculation
+Signal frequency calculation
+Voltage divider calculator
+Resistor color code calculator
+Capacitor charge/discharge time calculator
+Resistor value from color code calculator
+Inductor value from color code calculator
+Parallel resistance calculator
+Series resistance calculator
+Parallel capacitance calculator
+Series capacitance calculator
+Parallel inductance calculator
+Series inductance calculator
+Ohm's Law calculator (voltage, current, resistance)
+Voltage divider calculator with multiple resistors
+Wheatstone bridge calculator
+RC time constant calculator
+RL time constant calculator
+555 timer astable mode calculator
+555 timer monostable mode calculator
+ADC (Analog-to-Digital Converter) value scaling calculator
+DAC (Digital-to-Analog Converter) value scaling calculator
+PWM (Pulse Width Modulation) duty cycle calculator
+Frequency to period conversion calculator
+Period to frequency conversion calculator
+Voltage-to-temperature conversion (thermistor) calculator
+Temperature-to-voltage conversion (thermistor) calculator
+Temperature units conversion (Celsius, Fahrenheit, Kelvin)
+Duty cycle to analog voltage conversion calculator
+Analog voltage to duty cycle conversion calculator
+I2C pull-up resistor value calculator
+Serial baud rate calculator
+Bitrate and duration calculator for digital audio/video
+Byte-size calculator (bits, bytes, kilobytes, megabytes, etc.)
+Resistor voltage divider for ADC input calculator
+Time delay calculation using millis() function
+Real-time clock (RTC) weekday calculator
+Real-time clock (RTC) leap year calculator
+Real-time clock (RTC) alarm setting calculator
+Battery capacity calculator (mAh)
+Power dissipation calculator (voltage, current, resistance)
+Energy consumption calculator (power, time)
+Motor speed control using PWM calculator
+Stepper motor steps per revolution calculator
+Thermocouple voltage-to-temperature conversion calculator
+RGB LED color code calculator
+LM35 temperature sensor voltage-to-temperature conversion calculator
+LM35 temperature sensor temperature-to-voltage conversion calculator
+Pressure units conversion (Pa, psi, bar, mmHg)
+Acceleration units conversion (m/s², ft/s², g)
+Velocity units conversion (m/s, km/h, mph)
+Distance units conversion (mm, cm, inch, feet, meter, mile)
+Power factor calculator (active power, apparent power)
+Electric field strength calculator

@@ -1,0 +1,100 @@
+Write a Python script to calculate the factorial of a given number.
+Generate a Python script that creates a dictionary from a comma-separated input string.
+Create a Python program that checks if a given number is prime.
+Develop a Python script that lists all files in a directory.
+Write a Python script to convert temperatures from Fahrenheit to Celsius.
+Create a Python program to find the sum of all numbers in a list.
+Write a Python script to check if a given string is a palindrome.
+Generate a Python script to merge two dictionaries.
+Develop a script in Python to simulate a simple calculator that performs basic operations like add subtract multiply and divide.
+Write a Python program that reads a file and prints the number of characters words and lines in it.
+Create a Python script to fetch the current weather for a given zip code using an API.
+Write a Python script to remove duplicates from a list.
+Develop a Python script that sends a desktop notification.
+Generate a Python script to convert CSV data to a JSON file.
+Create a Python program to scrape the current top news headlines from a news website.
+Write a Python script that plots a graph of stock prices for a given company using matplotlib.
+Develop a Python script to find the second largest number in a list.
+Create a Python program that captures a webcam photo.
+Write a Python script to generate a random password of a given length.
+Develop a Python script to find all links present in a web page.
+Write a Python script to play a simple text-based game (like Hangman).
+Generate a Python script that renames multiple files in a folder.
+Create a Python program to solve a linear equation.
+Write a Python script to extract the text from a given PDF file.
+Develop a Python script to implement a to-do list where tasks can be added listed and removed.
+Create a Python script that checks for the existence of an email address in a string.
+Generate a Python script to calculate the age of a person given the date of birth.
+Write a Python program to make a simple stopwatch.
+Develop a Python script to count the occurrence of a specific word in a text.
+Write a Python script to recursively list all files of a certain extension in a directory.
+Create a program in Python that solves the quadratic equation.
+Develop a Python script to scrape and display the latest currency exchange rates against USD.
+Write a Python script to encrypt and decrypt a text file.
+Generate a Python script to find all prime numbers in a range.
+Create a Python program that finds patterns in a given string or file using regular expressions.
+Develop a Python script to download images or videos from a given URL.
+Write a script in Python to simulate a dice roll.
+Generate a Python script to read a JSON file and print its contents.
+Create a Python script that adds a watermark to images.
+Develop a Python program to find the greatest common divisor (GCD) of two numbers.
+Write a Python script to plot a simple bar chart.
+Generate a program in Python to create a simple HTTP server.
+Create a Python script that listens for keyboard events.
+Write a Python program to find the intersection of two lists.
+Develop a Python script to compress and decompress strings using zlib.
+Generate a Python script to fetch tweets containing a specific hashtag.
+Create a Python program to calculate the monthly payments of a loan.
+Write a Python script to automate login to a website.
+Develop a Python script to monitor and report CPU or memory usage.
+Create a Python script that performs basic text analysis: counting words letters and sentences.
+Write a Python program to find leap years in a given interval.
+Generate a Python script to convert audio files from one format to another.
+Develop a Python program to implement a simple HTTP client.
+Write a Python script to batch resize images.
+Create a Python program to parse and analyze logs from a log file.
+Write a Python script to calculate the distance between two points on Earth (given their latitude and longitude).
+Generate a Python script that automatically posts tweets.
+Create a Python script to calculate compound interest.
+Develop a Python program to find all subsets of a set.
+Write a Python script to convert markdown text to HTML.
+Generate a Python script to create a QR code.
+Create a Python program to simulate a bank account with functions like deposit withdraw and check balance.
+Write a Python script to sort a list of dictionaries by a given key.
+Develop a Python script to check website uptime.
+Create a Python script that cleans up a directory (e.g. deletes temp files).
+Write a Python script to plot the Fibonacci sequence.
+Generate a Python script to check disk usage.
+Develop a Python program to play a simple game of tic-tac-toe in the console.
+Write a Python script to implement a basic search engine.
+Create a Python script to automate data backup.
+Generate a Python program for facial recognition with OpenCV.
+Write a Python script to send emails with an attachment.
+Develop a Python script to crop and resize an image.
+Create a Python program to generate and display a calendar of a given month.
+Write a Python script to visualize the data in a pie chart.
+Develop a Python program to implement the Bubble Sort algorithm.
+Create a Python script to calculate the time difference between two datetime objects.
+Generate a Python script to monitor changes in a web page's content.
+Write a Python program that implements binary search.
+Develop a Python script to simulate a bouncing ball animation.
+Write a Python script to check the validity of a password (based on predefined criteria).
+Create a Python program to calculate body mass index (BMI).
+Generate a Python script to implement a stack.
+Develop a Python program to analyze a sample text and produce a summary (e.g. most frequent words).
+Write a Python script to implement a simple queue.
+Create a Python script to automate filling out web forms.
+Write a Python program to extract and save article texts from a news website.
+Develop a Python script to simulate cloud data upload/download.
+Generate a Python script to create a digital clock.
+Create a Python program to find the mid-point of a line.
+Write a Python script to validate and parse email addresses.
+Develop a Python script to implement the Tower of Hanoi algorithm.
+Generate a Python script to find the number of days between two dates.
+Write a Python program to convert infix expressions to postfix expressions.
+Develop a Python script to find the chord length of a circle for a given angle.
+Create a Python script that combines multiple PDFs into one.
+Write a Python program to automatically generate a table of contents for a given text document.
+Develop a Python script to check the presence of an IP address within a given range.
+Generate a Python script to display system information (like OS version IP address etc.).
+Create a Python program to visually compare two text files and highlight the differences.

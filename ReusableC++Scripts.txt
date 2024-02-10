@@ -1,0 +1,100 @@
+Write a C++ program to display \Hello World!\ on the screen.
+Create a C++ function to add two numbers provided by the user.
+Develop a C++ program that reads the user's age and then determines if they are eligible to vote.
+Write a C++ script that converts Celsius temperatures to Fahrenheit.
+Generate a C++ program that calculates the area of a circle given its radius.
+Implement a simple C++ calculator that supports addition subtraction multiplication and division.
+Craft a C++ code segment to reverse an input string from the user.
+Formulate a C++ program that checks whether a number is prime or not.
+Design a C++ function that calculates the factorial of a number using recursion.
+Construct a C++ script to display the Fibonacci series up to the nth term specified by the user.
+Build a C++ program that finds the greatest among three provided numbers.
+Create a C++ application that sorts an array of integers in ascending order.
+Write a C++ code snippet that searches for an element in an array using linear search.
+Develop a C++ script to find the sum and average of an array of numbers.
+Generate a C++ function that swaps the content of two variables using pointers.
+Implement a C++ program that demonstrates the use of default function arguments.
+Craft a C++ class representing a basic bank account with deposit and withdraw methods.
+Formulate a C++ program that simulates a simple address book with basic functionalities.
+Design a C++ script to demonstrate the concept of constructor overloading.
+Construct a C++ program that displays the current date and time.
+Build a C++ application that reads and writes text to a file.
+Create a C++ program to manage a dynamic array using classes.
+Write a C++ code for performing matrix addition.
+Develop a C++ script that captures user input in a switch case menu system.
+Generate a C++ program that converts an integer to its binary representation.
+Implement a C++ function that merges two sorted arrays into a single sorted array.
+Craft a C++ code that displays the use of enumeration types.
+Formulate a C++ script that demonstrates the use of namespaces.
+Design a C++ class that models a simple digital clock.
+Construct a C++ function that checks for a palindrome number.
+Build a C++ program that calculates compound interest.
+Create a C++ script to display star patterns (like pyramid reverse pyramid).
+Write a C++ program that performs string concatenation without using the standard library.
+Develop a simple C++ text-based game (like guess the number tic-tac-toe).
+Generate a C++ program that illustrates the concept of function overloading.
+Implement a C++ program to demonstrate the use of dynamic memory allocation.
+Craft a C++ script that shows how to use the \this\ pointer.
+Formulate a C++ program that implements simple inheritance between classes.
+Design a C++ program that demonstrates exception handling basics.
+Construct a C++ script to calculate the power of any number using recursion.
+Build a C++ application that simulates a vending machine.
+Create a C++ program that manages a list of students and their grades using structures.
+Write a C++ function to sort a vector using the sort function from STL.
+Develop a C++ script to demonstrate file I/O by copying one file's contents to another.
+Generate a C++ class that encapsulates a basic stopwatch functionality.
+Implement a command-line based C++ to-do list application.
+Craft a C++ menu-driven program to perform basic arithmetic operations using a class.
+Formulate a C++ program to illustrate the applications of pointers.
+Design a C++ class hierarchy that represents different types of vehicles.
+Construct a C++ template function for finding the maximum value in an array.
+Build a C++ program that illustrates the use of std::map.
+Create a script to demonstrate the use of multithreading in C++.
+Write a C++ program that calculates the GCD (Greatest Common Divisor) of two numbers.
+Develop a C++ console application that simulates a simple banking system with account classes.
+Generate a C++ program that parses a comma-separated values (CSV) file.
+Implement a C++ project that visualizes sorting algorithms.
+Craft a vector operations library in C++.
+Formulate a C++ script demonstrating the Observer design pattern.
+Design a C++ implementation of a linked list.
+Construct a C++ program to compare strings lexicographically.
+Build a C++ calculator that supports complex numbers.
+Create a C++ utility for converting Roman numerals to decimal and vice versa.
+Write a C++ paint program that simulates basic drawing functionalities.
+Develop a C++ application to encrypt and decrypt text using a simple cipher.
+Generate a C++ script to demonstrate polymorphism with shape classes.
+Implement a C++ program that shows the use of the copy constructor.
+Craft a simple C++ game engine foundation with basic rendering and input handling.
+Formulate a C++ program that illustrates the use of multi-level inheritance.
+Design a C++ program to display system information (like CPU usage memory usage).
+Construct a C++ script for simulating a parking garage system.
+Build a C++ program that manages a toy library system using file operations.
+Create a C++ solution for the Sudoku solver.
+Write a function to demonstrate lambda expressions in C++.
+Develop a C++ program for a simple chat application over a local network.
+Generate a C++ class that models a geometric shape with virtual functions for area and perimeter.
+Implement a C++ application for booking movie tickets in a cinema hall.
+Craft a C++ program that converts infix expressions to postfix.
+Formulate a script that generates random quotes from a predefined list of quotes.
+Design a piece of software in C++ for managing a small hotel's room bookings.
+Construct a C++ data analysis tool for processing and visualizing sales data.
+Build an interactive C++ tutorial program for beginners.
+Create a C++ chatbot that can perform basic interactions.
+Write a C++ program that simulates a basic inventory system.
+Develop a C++ script to demonstrate auto and decltype keywords.
+Generate a file compression tool in C++ using basic algorithms.
+Implement a C++ program that showcases the use of regular expressions.
+Craft a C++ utility for managing a personal diary or journal.
+Formulate a C++ program that simulates an ATM interface.
+Design a C++ app for tracking personal expenses and budgeting.
+Construct a C++ program for a simple flight booking system.
+Build a C++ library for basic image processing functions.
+Create a C++ program to analyze and compare the performance of sorting algorithms.
+Write a C++ entity-component-system (ECS) framework snippet for game development.
+Develop a C++ software for managing library books and patrons.
+Generate a C++ program for a text-based adventure game.
+Implement a GUI calculator using C++ and a graphics library like SFML or Qt.
+Craft a C++ tool for genealogical tree visualization.
+Formulate a C++ script for a simple musical instrument simulator.
+Design a program in C++ for a personal task management system.
+Construct a C++ application for a basic e-commerce system simulation.

@@ -1,0 +1,50 @@
+1. OpenWindow: Opens a specific window on the computer.
+2. OpenApp: Launches a specific application on the computer.
+3. TakeScreenshot: Captures a screenshot on the computer.
+4. PlayMusic: Plays a specific music file on the computer.
+5. VolumeUp: Increases the volume on the computer.
+6. VolumeDown: Decreases the volume on the computer.
+7. Mute: Mutes the volume on the computer.
+8. NextTrack: Skips to the next track in the music player.
+9. PreviousTrack: Goes back to the previous track in the music player.
+10. PlayPause: Toggles between playing and pausing the current track in the music player.
+11. Copy: Copies the selected text or file on the computer.
+12. Cut: Cuts the selected text or file on the computer.
+13. Paste: Pastes the copied or cut text or file on the computer.
+14. Undo: Undoes the last action on the computer.
+15. Redo: Redoes the last undone action on the computer.
+16. SelectAll: Selects all the text or files on the computer.
+17. Save: Saves the current document or file on the computer.
+18. Print: Prints the current document or file on the computer.
+19. Find: Opens the find dialog box on the computer.
+20. Replace: Opens the replace dialog box on the computer.
+21. Bold: Applies bold formatting to the selected text on the computer.
+22. Italic: Applies italic formatting to the selected text on the computer.
+23. Underline: Applies underline formatting to the selected text on the computer.
+24. Strikethrough: Applies strikethrough formatting to the selected text on the computer.
+25. AlignLeft: Aligns the selected text to the left on the computer.
+26. AlignCenter: Aligns the selected text to the center on the computer.
+27. AlignRight: Aligns the selected text to the right on the computer.
+28. IncreaseIndent: Increases the indent level of the selected text on the computer.
+29. DecreaseIndent: Decreases the indent level of the selected text on the computer.
+30. InsertImage: Inserts an image into the current document or file on the computer.
+31. InsertTable: Inserts a table into the current document or file on the computer.
+32. InsertHyperlink: Inserts a hyperlink into the current document or file on the computer.
+33. InsertSymbol: Inserts a special symbol or character into the current document or file on the computer.
+34. CloseWindow: Closes the current window on the computer.
+35. CloseApp: Closes the current application on the computer.
+36. MinimizeWindow: Minimizes the current window on the computer.
+37. MaximizeWindow: Maximizes the current window on the computer.
+38. RestoreWindow: Restores the current window to its previous size on the computer.
+39. LockScreen: Locks the computer screen.
+40. Sleep: Puts the computer into sleep mode.
+41. Hibernate: Puts the computer into hibernate mode.
+42. Restart: Restarts the computer.
+43. Shutdown: Shuts down the computer.
+44. LogOff: Logs off the current user on the computer.
+45. SwitchUser: Switches to a different user on the computer.
+46. OpenBrowser: Opens a specific web browser on the computer.
+47. NewTab: Opens a new tab in the web browser.
+48. CloseTab: Closes the current tab in the web browser.
+49. ScrollUp: Scrolls up on the current page in the web browser.
+50. ScrollDown: Scrolls down on the current page in the web browser.

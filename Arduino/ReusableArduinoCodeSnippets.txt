@@ -1,0 +1,100 @@
+Reading analog sensor values (e.g. light temperature).
+Debouncing a tactile switch.
+Controlling a servo motor.
+Driving a DC motor with an H-Bridge.
+Blinking an LED without using `delay()`.
+Simple LED dimming using PWM.
+Reading a rotary encoder.
+Using a 7-segment display.
+Interfacing with an LCD display (I2C/SPI).
+Ultrasonic distance measurement.
+Simple temperature logging to an SD card.
+Reading RFID tags with an RFID reader.
+Controlling a stepper motor.
+Generating sound with a piezo buzzer.
+Using a real-time clock (RTC) module.
+WiFi connection and simple HTTP get request.
+MQTT messaging for IoT applications.
+Controlling RGB LEDs (color mixing).
+Soil moisture measurement.
+Using infrared (IR) remote controls.
+Simple motion detection using a PIR sensor.
+Reading a GPS module for location.
+Capacitive touch sensor switch.
+Bluetooth basic data exchange.
+Data logging to EEPROM.
+Basic OTA firmware updates.
+Web server to control devices over local network.
+Implementing a simple state machine.
+Battery level monitoring.
+Creating a simple digital thermostat.
+Flashing an external LED array.
+Using a hall effect sensor for magnetic fields.
+Pulse Rate and Oxygen in Blood (SPO2) measurement.
+Internet clock using NTP.
+Simple voice commands with a speech recognition module.
+Wireless temperature and humidity monitoring.
+Accelerometer-based tilt sensor.
+Building a line follower robot.
+Implementing a finite state machine for control tasks.
+Analog voltage logging over time.
+Controlling power outlets over WiFi.
+Using a LDR sensor for light level monitoring.
+Toggle LED with a web-based interface.
+Simple obstacle avoiding robot.
+Displaying custom characters on an LCD screen.
+Controlling AC devices with a TRIAC.
+Sending SMS with a GSM module.
+Creating a weather station with multiple sensors.
+Build a basic oscilloscope.
+Reading and Filtering Noise in an Analog Signal.
+Creating a Morse code generator.
+Implementing PID control for a temperature sensor.
+Logging data to a Google Sheets document.
+Using a joystick module for control inputs.
+Driving multiple LEDs with shift registers.
+Simple game development on an OLED display.
+Controlling a relay module.
+Graphical data display with an OLED.
+Remote controlled robot via a smartphone.
+Gaming controller with accelerometer and buttons.
+Implementing a digital low-pass filter.
+Energy consumption tracker.
+Creating a custom light show with LEDs.
+Ultrasonic map maker.
+Automated plant watering system.
+RF remote controlled devices.
+Creating a digital compass with a magnetometer sensor.
+Temperature controlled fan.
+Simple encryption for wireless communication.
+Voltage and current measurement device.
+Gyroscope-based hand gesture control.
+Building a solar tracker.
+Implementing a binary clock.
+Sound Level Meter.
+Color sensor for object sorting.
+RFID based security system.
+Voice activated lights.
+Building a smart mirror with display.
+Drone stabilization system.
+Making a CNC machine controller.
+Heart rate monitor with visual representation.
+Smart blind opener based on light sensor.
+Audio spectrum analyzer.
+Implementing a vehicle parking counter.
+Internet radio player.
+Wi-Fi signal strength meter.
+Creating a laser tripwire alarm.
+Biometric fingerprint-based access control.
+Programmable LED cube.
+Photosensitive night light.
+Real-time asset tracking.
+Wind speed measurement device.
+Smart garbage monitoring system.
+Interactive floor using pressure sensors.
+Arduino based calculator.
+IoT pet feeder.
+Breathalyzer.
+Autonomous surface vehicle (ASV) controls.
+Solar panel efficiency monitor.
+Water quality monitoring system.

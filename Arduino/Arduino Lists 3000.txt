@@ -1,0 +1,10 @@
+Arduino Uno:
+Arduino Nano:
+Arduino Mega 2560:
+Arduino Leonardo:
+Arduino Due:
+Arduino Pro Mini:
+Arduino MKR1000:
+Arduino Nano Every:
+Arduino Pro Micro:
+Arduino Zero:

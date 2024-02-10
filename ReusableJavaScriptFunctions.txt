@@ -1,0 +1,100 @@
+Generate a unique ID string function.
+Function to convert RGB color values to hex.
+Check if a string is a palindrome.
+Function to calculate the factorial of a number.
+Merge two sorted arrays into one.
+Implement a debounce function for event listeners.
+Function to format dates into a readable string.
+Calculate the distance between two points on Earth (Haversine formula).
+Function to shuffle an array (Fisher-Yates shuffle).
+Validate an email address format.
+Function to deep clone an object.
+Simple encryption and decryption functions (e.g. Caesar cipher).
+Implement a basic templating engine.
+Function to find the greatest common divisor (GCD) of two numbers.
+Convert numbers to words (e.g. 123 to \one hundred twenty-three\).
+Find all prime numbers up to a given number.
+Function to check for leap years.
+Generate random colors in hex format.
+Implement memoization for performance optimization.
+Extract query parameters from a URL string.
+Flatten a nested array structure.
+Function to convert camelCase to snake_case and vice versa.
+Implement a basic pub/sub (publish/subscribe) system.
+Calculate the nth Fibonacci number.
+Function to limit the rate at which a function is called (rate limiter).
+Remove duplicates from an array.
+Check if an object is empty.
+Function to convert bytes to human-readable formats (KB MB GB).
+Implement a stack with JavaScript (using arrays or objects).
+Function to convert angles from degrees to radians and vice versa.
+Generate a list of numbers in a range (inclusive).
+Detect if a device is in dark mode.
+Function to safely access nested object properties (optional chaining).
+Basic password strength checker.
+Convert a string to title case.
+Calculate the average of an array of numbers.
+Function to parse and format currency strings.
+Determine if a year is a leap year.
+Function to capitalize the first letter of each word in a string.
+Implement a queue in JavaScript.
+Create a function to find the intersection of two arrays.
+Check if a string is a valid JSON.
+Function to reverse a string.
+Find the longest word in a sentence.
+Count the occurrences of a specific value in an array.
+Function to check if a number is prime.
+Filter falsy values out of an array (null undefined 0 false NaN \\).
+Implement the binary search algorithm.
+Sort an array of objects by a property value.
+Function to find the minimum and maximum values in an array.
+Calculate the sum of digits of a number.
+Check if a number is an Armstrong number.
+Function to chunk an array into smaller arrays of a specified size.
+Generate a random string of specified length.
+Convert CSV string to a two-dimensional array.
+Find the mode (the value that appears most frequently) in an array.
+Implement a function to check if a string contains another string case insensitive.
+Function to replace all occurrences of a string.
+Validate a credit card number (Luhn algorithm).
+Implement a simple DOM selector utility (like a simplified jQuery).
+Function to escape and unescape HTML entities.
+Check if two arrays are equal (deep comparison).
+Get the current scroll position of the webpage.
+Implement the quicksort algorithm.
+Throttle function calls (ensure a function is only called at most once in a specified time period).
+Determine the number of days between two dates.
+Implement an algorithm to detect a loop in a linked list.
+Calculate the perimeter of a rectangle.
+Function to replace spaces in a string with a specified character.
+Convert a binary number string to a decimal number.
+Generate an array of Fibonacci numbers up to a certain limit.
+Function to detect if a string is made up only of whitespace characters.
+Validate a phone number format.
+Implement a simple middleware system (like Express or Koa).
+Calculate body mass index (BMI).
+Function to convert hex color values to RGB.
+Determine if a string is a valid hexadecimal color.
+Basic expression evaluator (supporting + - * /).
+Implement a basic version of lodash's _.get function to safely access object properties.
+Function to round numbers to a specified number of decimal places.
+Create a basic slider functionality (next previous).
+Determine if a variable is an array.
+Implement a binary tree and its traversal methods.
+Check if a string consists only of alphanumeric characters.
+Function to calculate the area of a circle.
+Parse a URL and return an object with its components.
+Detect the browser's language setting.
+Implement a simple error handling wrapper for async functions.
+Create a stopwatch utility (start stop reset).
+Detect if the current page is being viewed on a mobile device.
+Function to find the closest number in an array.
+Implement a linear search algorithm.
+Check if a number is even or odd.
+Create a function for smooth scrolling to a page element.
+Generate a matrix (2D array) of specified size.
+Implement a simple spell checker (suggest corrections).
+Function to convert a number to its ordinal form (1st 2nd 3rd).
+Create a function that validates a user input as a number and within a specific range.
+Determine if a string contains only unique characters.
+Calculate the angle between the hour and minute hands of a clock at a given time.

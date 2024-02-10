@@ -1,0 +1,100 @@
+`SubmitFormButton` - Submits a form
+`LoadMoreButton` - Loads more content
+`ToggleButton` - Toggles between two states (eg On/Off)
+`DeleteItemButton` - Deletes an item
+`SignInButton` - Initiates a sign-in process
+`SignOutButton` - Signs out a user
+`RefreshPageButton` - Refreshes the page content
+`UploadFileButton` - Initiates file upload
+`DownloadButton` - Downloads a file
+`PlayMediaButton` - Plays media (audio/video)
+`PauseMediaButton` - Pauses media (audio/video)
+`StopMediaButton` - Stops media playback
+`MuteToggleButton` - Mutes or unmutes volume
+`FullScreenButton` - Toggles fullscreen mode
+`AddToCartButton` - Adds an item to the shopping cart
+`RemoveFromCartButton` - Removes an item from the cart
+`IncreaseQuantityButton` - Increases item quantity
+`DecreaseQuantityButton` - Decreases item quantity
+`ApplyCouponButton` - Applies a coupon code
+`CheckoutButton` - Proceeds to checkout
+`SaveSettingsButton` - Saves settings/preferences
+`EditProfileButton` - Edits user profile
+`CancelOperationButton` - Cancels the current operation
+`ConfirmActionButton` - Confirms an action (eg Yes/No)
+`NavigateBackButton` - Navigates to the previous screen
+`CloseModalButton` - Closes a modal window
+`DismissAlertButton` - Dismisses an alert/notification
+`CopyToClipboardButton` - Copies content to clipboard
+`ChangeThemeButton` - Changes application theme
+`VoteUpButton` - Votes up (eg in forums)
+`VoteDownButton` - Votes down
+`FollowUserButton` - Follows a user
+`UnfollowUserButton` - Unfollows a user
+`ShareContentButton` - Shares content
+`AddCommentButton` - Adds a comment
+`ExpandSectionButton` - Expands a collapsible section
+`CollapseSectionButton` - Collapses a section
+`SwitchTabButton` - Switches tabs
+`StartTimerButton` - Starts a timer
+`StopTimerButton` - Stops a timer
+`ResetTimerButton` - Resets a timer
+`SubmitQuizButton` - Submits answers to a quiz
+`NextQuestionButton` - Goes to the next quiz question
+`PreviousQuestionButton` - Returns to the previous question
+`ShowHintButton` - Shows a hint
+`SkipTutorialButton` - Skips a tutorial
+`CompleteLevelButton` - Completes the current level (in games or learning modules)
+`RestartGameButton` - Restarts the game or level
+`SubmitFeedbackButton` - Submits feedback
+`ReportIssueButton` - Reports an issue or bug
+`AddToFavoritesButton` - Adds to favorites
+`RemoveFromFavoritesButton` - Removes from favorites
+`EnableNotificationsButton` - Enables notifications
+`DisableNotificationsButton` - Disables notifications
+`ConnectWalletButton` - Connects a digital wallet
+`DisconnectWalletButton` - Disconnects the digital wallet
+`RedeemOfferButton` - Redeems an offer or coupon
+`ViewProfileButton` - Views a user profile
+`LogoutButton` - Logs out the user
+`PrintPageButton` - Prints the current page
+`CreateNewFolderButton` - Creates a new folder (eg in file management or email)
+`DeleteFolderButton` - Deletes a folder
+`RenameItemButton` - Renames an item
+`ShareViaEmailButton` - Shares content via email
+`SendInvitationButton` - Sends an invitation
+`RequestApprovalButton` - Requests approval for an action or document
+`ApproveButton` - Approves an action or document
+`RejectButton` - Rejects an action or document
+`MarkAsReadButton` - Marks an item as read
+`MarkAsUnreadButton` - Marks an item as unread
+`SubscribeButton` - Subscribes to a newsletter or service
+`UnsubscribeButton` - Unsubscribes from a newsletter or service
+`PlayAgainButton` - Plays a game or video again
+`GoToDashboardButton` - Navigates to the dashboard
+`ShowMoreDetailsButton` - Shows more details about an item
+`ShowLessDetailsButton` - Shows fewer details
+`ActivateAccountButton` - Activates an account
+`DeactivateAccountButton` - Deactivates an account
+`LinkAccountButton` - Links an account (eg social media linking)
+`UnlinkAccountButton` - Unlinks an account
+`CreateEventButton` - Creates a new event
+`CancelEventButton` - Cancels an event
+`RSVPButton` - RSVPs to an event
+`StartRecordingButton` - Starts recording audio or video
+`StopRecordingButton` - Stops recording
+`SaveDraftButton` - Saves a draft
+`PublishPostButton` - Publishes a post or article
+`EditCommentButton` - Edits a comment
+`DeleteCommentButton` - Deletes a comment
+`PinPostButton` - Pins a post to the top
+`UnpinPostButton` - Unpins a post
+`LikeButton` - Expresses a 'like'
+`DislikeButton` - Expresses a 'dislike'
+`SubscribeToChannelButton` - Subscribes to a channel (eg on video platforms)
+`UnsubscribeFromChannelButton` - Unsubscribes from a channel
+`JoinGroupButton` - Joins a group
+`LeaveGroupButton` - Leaves a group
+`AddToPlaylistButton` - Adds to a playlist
+`RemoveFromPlaylistButton` - Removes from a playlist
+`SwitchLanguageButton` - Switches the application's language

@@ -1,0 +1,6 @@
+1. LED Blink: Connect an LED to an Arduino board and make it blink at a specific interval. You can control the blinking pattern from the frontend using the server as a mediator.
+2. Temperature and Humidity Sensor: Use a DHT11 or DHT22 sensor to measure temperature and humidity. Connect the sensor to the Arduino board and send the data to the server. Display the readings on the React frontend.
+3. Ultrasonic Distance Sensor: Connect an ultrasonic distance sensor to the Arduino board and measure the distance to an object. Send the distance data to the server and display it on the React frontend.
+4. Light Intensity Sensor: Use a light-dependent resistor (LDR) to measure the intensity of light. Connect the LDR to the Arduino board and send the readings to the server. Display the light intensity on the React frontend.
+5. Servo Motor Control: Connect a servo motor to the Arduino board and control its position from the React frontend. Send the desired position to the server, which then communicates with the Arduino to move the servo motor accordingly.
+6. Button Input: Connect a push button to the Arduino board and read its state. Send the button state to the server, and update the React frontend accordingly (e.g., change a button's color or display a message).

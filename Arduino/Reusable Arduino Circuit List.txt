@@ -1,0 +1,200 @@
+LED Blinking Circuit
+Push Button LED Circuit
+Potentiometer LED Dimming Circuit
+RGB LED Circuit
+LDR (Light Dependent Resistor) Circuit
+Buzzer Circuit
+Servo Motor Control Circuit
+DC Motor Control Circuit
+Stepper Motor Control Circuit
+LCD Display Circuit
+7-Segment Display Circuit
+Ultrasonic Distance Sensor Circuit
+Temperature Sensor Circuit (e.g., LM35)
+Humidity Sensor Circuit
+PIR (Passive Infrared) Motion Sensor Circuit
+Flame Sensor Circuit
+Sound Sensor Circuit
+IR (Infrared) Receiver Circuit
+IR Transmitter Circuit
+RFID (Radio Frequency Identification) Circuit
+Bluetooth Communication Circuit
+Wi-Fi Communication Circuit
+GSM (Global System for Mobile) Communication Circuit
+GPS (Global Positioning System) Circuit
+RTC (Real-Time Clock) Circuit
+EEPROM (Electrically Erasable Programmable Read-Only Memory) Circuit
+Keypad Input Circuit
+Rotary Encoder Circuit
+Joystick Control Circuit
+Analog Voltage Reading Circuit
+Analog Current Reading Circuit
+Digital Temperature Sensor (DS18B20) Circuit
+Accelerometer Circuit
+Gyroscope Circuit
+Magnetometer Circuit
+Hall Effect Sensor Circuit
+Haptic Feedback Circuit
+Relay Control Circuit
+Motor Driver Circuit (e.g., L293D)
+Voltage Level Shifter Circuit
+Logic Level Converter Circuit
+Multiplexer (MUX) Circuit
+Demultiplexer (DEMUX) Circuit
+Shift Register Circuit (e.g., 74HC595)
+Binary Counter Circuit
+PWM (Pulse Width Modulation) Circuit
+Frequency Measurement Circuit
+Capacitive Touch Sensor Circuit
+Voltage Divider Circuit
+Current Sensing Circuit
+Power Supply Voltage Monitoring Circuit
+Power On/Off Circuit
+Infrared Remote Control Circuit
+RGB Color Mixing Circuit
+Audio Amplifier Circuit
+Audio Spectrum Analyzer Circuit
+Motor Speed Control using PID Circuit
+Data Logging Circuit
+Digital Clock Circuit
+Stopwatch Circuit
+Digital Thermometer Circuit
+PID Temperature Control Circuit
+Auto-Off Timer Circuit
+Light Dimmer Circuit
+Capacitance Meter Circuit
+Resistance Meter Circuit
+Inductance Meter Circuit
+Logic Gate Circuit (AND, OR, NOT, etc.)
+Binary to Decimal Converter Circuit
+Decimal to Binary Converter Circuit
+Temperature and Humidity Display Circuit
+Soil Moisture Sensor Circuit
+Water Level Indicator Circuit
+Voltage Regulator Circuit
+Solar Power Monitoring Circuit
+Touchless Hand Sanitizer Dispenser Circuit
+Electronic Lock Circuit
+RF Transmitter and Receiver Circuit
+Bluetooth Music Player Circuit
+Digital Voltmeter Circuit
+Frequency Generator Circuit
+Audio Visualizer Circuit
+Weather Station Circuit
+Smart Home Automation Circuit
+Motorized Camera Slider Circuit
+Line Follower Robot Circuit
+Obstacle Avoiding Robot Circuit
+Robotic Arm Control Circuit
+Wireless Power Transfer Circuit
+Metal Detector Circuit
+Motor Speed and Direction Control Circuit
+Wireless Temperature and Humidity Monitoring Circuit
+Digital Audio Player Circuit
+Water Flow Sensor Circuit
+Color Sensing Circuit
+Pulse Oximeter Circuit
+Wireless Weather Monitoring Circuit
+Gas Sensor Circuit
+UV Index Meter Circuit
+Morse Code Generator and Receiver Circuit
+Ultrasonic Parking Sensor Circuit
+Obstacle Detection and Avoidance Circuit
+Bluetooth Controlled Robot Circuit
+GPS Tracker Circuit
+RFID Door Lock Circuit
+RFID Attendance System Circuit
+Temperature and Humidity Controlled Fan Circuit
+Light Following Robot Circuit
+Bluetooth Home Automation Circuit
+Wi-Fi Controlled Robot Circuit
+Voice-Controlled Home Automation Circuit
+Line Tracking Robot Circuit
+Bluetooth Car MP3 Player Circuit
+Digital Audio Equalizer Circuit
+GPS Speedometer Circuit
+LED Matrix Display Circuit
+Morse Code Communication Circuit
+Water Level Controller Circuit
+Fire Alarm Circuit
+Smoke Detector Circuit
+Rainwater Harvesting Controller Circuit
+Auto Intensity Control of Street Lights Circuit
+Home Energy Monitoring Circuit
+Gas Leakage Detector Circuit
+Power Factor Correction Circuit
+Sound-Activated Switch Circuit
+RFID Access Control Circuit
+Temperature Controlled Fan Circuit
+Color Sorting Machine Circuit
+Bluetooth Music Receiver Circuit
+Alcohol Breathalyzer Circuit
+Heart Rate Monitor Circuit
+Digital Weight Scale Circuit
+Bluetooth Audio Transmitter Circuit
+Wireless Home Security System Circuit
+Motorized Curtain Control Circuit
+Arduino MIDI Controller Circuit
+Digital Tachometer Circuit
+Arduino FM Radio Circuit
+Gesture Control Robot Circuit
+Bluetooth RC Car Circuit
+Digital Spirit Level Circuit
+LED Cube Circuit
+Ultrasonic Blind Walking Stick Circuit
+Auto Watering System Circuit
+Peltier Temperature Control Circuit
+RFID based Toll Collection System Circuit
+Motorized Camera Pan-Tilt Circuit
+Wireless Remote Weather Station Circuit
+Line Voltage Monitor Circuit
+Solar Panel Tracker Circuit
+Self-Balancing Robot Circuit
+Arduino Quadcopter Circuit
+Digital pH Meter Circuit
+Sunrise and Sunset Simulator Circuit
+Obstacle Detection Robot Circuit
+CNC Machine Control Circuit
+Gesture-Controlled Robotic Arm Circuit
+Arduino Game Console Circuit
+Wireless RFID Pet Feeder Circuit
+Arduino Breathalyzer Ignition Interlock Circuit
+Automatic Plant Watering System Circuit
+GPS-based Clock Circuit
+Home Weather Station Circuit
+Bluetooth Temperature Monitoring Circuit
+Arduino Oscilloscope Circuit
+WiFi Signal Strength Meter Circuit
+Arduino RFID Alarm System Circuit
+Automatic Fish Feeder Circuit
+Capacitive Touch Doorbell Circuit
+Digital Altitude Meter Circuit
+Automated Curtain Opener and Closer Circuit
+Arduino Sound Reactive LED Strip Circuit
+Water Quality Monitoring Circuit
+Gesture-Controlled Light Switch Circuit
+Arduino Audio Spectrum Analyzer Circuit
+MIDI Synthesizer Circuit
+Wireless Soil Moisture Monitoring Circuit
+Arduino Laser Security System Circuit
+RFID based Inventory Management System Circuit
+Digital CO2 Meter Circuit
+Arduino-powered Segway Circuit
+Autonomous Robot Car Circuit
+RFID based Smart Shopping System Circuit
+Smart Irrigation System Circuit
+Bluetooth Controlled RGB LED Strip Circuit
+Arduino Smart Lock Circuit
+RFID based Attendance Monitoring System Circuit
+RFID based Library Management System Circuit
+Gesture-Controlled Drone Circuit
+Temperature-Controlled Soldering Station Circuit
+Bluetooth Controlled Home Appliances Circuit
+Arduino CNC Plotter Circuit
+Bluetooth Controlled Robot Arm Circuit
+Digital Ammeter Circuit
+Arduino Thermostat Circuit
+Obstacle Avoiding Robot Car Circuit
+Arduino Controlled Pet Feeder Circuit
+Automatic Street Light Control Circuit
+Capacitive Touch-based Lamp Dimmer Circuit

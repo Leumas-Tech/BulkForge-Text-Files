@@ -1,0 +1,40 @@
+1. Smart Plant Watering System
+2. Bluetooth Controlled Robot Car
+3. Temperature and Humidity Monitor
+4. Home Automation System
+5. Digital Thermometer
+6. Gesture Controlled LED Strip
+7. Ultrasonic Distance Sensor
+8. RFID Door Lock
+9. Light Following Robot
+10. Obstacle Avoiding Robot
+11. Wireless Weather Station
+12. Soil Moisture Sensor
+13. PIR Motion Sensor Alarm
+14. Touchless Hand Sanitizer Dispenser
+15. RGB LED Cube
+16. Voice-Activated Home Assistant
+17. Solar Tracker
+18. Automatic Pet Feeder
+19. Arduino Game Console
+20. Digital Piano
+1. LED Matrix Display
+2. Temperature and Humidity Monitor
+3. Bluetooth Controlled Robot
+4. GPS Tracker
+5. Ultrasonic Distance Sensor
+6. RFID Door Lock
+7. Touchless Hand Sanitizer Dispenser
+8. Light Theremin
+9. Digital Thermometer
+10. Wireless Weather Station
+11. Smart Home Automation System
+12. PIR Motion Sensor Alarm
+13. Soil Moisture Sensor
+14. Obstacle Avoiding Robot
+15. Digital Piano
+16. Color Sorting Machine
+17. Heart Rate Monitor
+18. Voice-controlled Home Assistant
+19. Line Following Robot
+20. Laser Tripwire Alarm

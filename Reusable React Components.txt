@@ -1,0 +1,200 @@
+Buttons (e.g., Primary, Secondary, Tertiary, Rounded, Icon)
+Navigation Bar
+Dropdown Menu
+Tabs
+Accordion
+Modal/Popup
+Toast/Notification
+Cards
+Slideshow/Carousel
+Progress Bar
+Pagination
+Checkbox
+Radio Button
+Toggle Switch
+Range Slider
+Input Fields (e.g., Text, Password, Email, Number)
+Textarea
+Select Dropdown
+Date Picker
+Time Picker
+Color Picker
+File Upload
+Search Bar
+Tag/Label
+Badges
+Rating Stars
+Tooltip
+Popover
+Alert Messages (e.g., Success, Error, Warning)
+Loader/Spinner
+Tables
+Grid System/Layout
+Tabs Navigation
+Sidebar Navigation
+Footer
+Forms (e.g., Login, Registration)
+Pagination
+Breadcrumbs
+Social Media Icons
+Image Gallery
+Video Player
+Audio Player
+Code Editor
+Quotes/Testimonials
+Pricing Tables
+Call to Action (CTA) Buttons
+Hero Section
+Features Section
+Team Member Profiles
+Contact Form
+Newsletter Subscription Form
+Countdown Timer
+Steps/Process Indicator
+Skill Bars
+Timeline
+Tabs with Content
+Accordions with Content
+Pricing Cards
+Testimonial Slideshow
+Blog Post Cards
+Social Media Share Buttons
+Scroll-to-Top Button
+Image Slider
+Video Background
+Parallax Background
+Icon Set
+Data Tables
+Login Form
+Registration Form
+Forgot Password Form
+User Profile Card
+Product Showcase Card
+Dropdown Select with Search
+Filterable Image Gallery
+Login/Signup Modal
+Pricing Plan Selector
+Multi-Step Form Wizard
+Comparison Table
+Product Rating and Reviews
+Newsletter Signup Modal
+Mobile App Showcase
+Responsive Video Embed
+Blog Post Author Box
+Portfolio Grid
+Skills/Capabilities Section
+Progress Steps Indicator
+Image Lightbox/Modal
+Countdown Timer with Animation
+Article Reading Progress Indicator
+Testimonial Carousel
+FAQ Accordion
+Client Logo Slider
+Animated Progress Bar
+Social Media Feed Widget
+Team Member Cards
+Callout Boxes
+Pricing Plan Cards
+Skill/Expertise Bars
+Feedback/Rating Form
+Pie Chart
+Image Carousel
+Testimonial Slider
+Pricing Plan Toggle
+Filterable Portfolio Gallery
+Pagination with Load More Button
+Social Sharing Buttons
+Scrollspy Navigation
+Animated Counter
+Dropdown Select with Multi-Select Option
+Animated Progress Circle
+Step-by-Step Guide
+Video Background Section
+Image Gallery Grid
+Form Validation
+Timeline Slider
+Tabbed Pricing Table
+Accordion with Icon Toggle
+Icon Button
+Scroll Indicator
+Map Integration (Google Maps)
+Chat Widget
+Blog Post Grid
+Sticky Sidebar
+Social Login Buttons
+Testimonial Card Grid
+Masonry Grid Layout
+Content Loader Skeleton
+Range Slider with Dual Handles
+Image Zoom and Pan
+Animated Dropdown Menu
+Password Strength Meter
+Notification Bell Icon
+Scroll-to-Anchor Navigation
+Carousel with Thumbnail Navigation
+Scroll Reveal Animation
+Profile Picture Upload
+Data Visualization Charts (e.g., Bar Chart, Line Chart)
+Image Comparison Slider
+Content Toggle Switch
+Video Player with Playlist
+Responsive Table
+Progress Steps Indicator with Icon
+Newsletter Subscription Form with MailChimp Integration
+Search Autocomplete Dropdown
+Floating Action Button
+Animated Page Transitions
+Image Lazy Loading
+Tooltip with Customizable Styling
+Notification Badge
+Image Cropping Tool
+Image Filtering and Sorting
+Chatbot Interface
+Stacked Card Grid
+Product Rating Stars
+Infinite Scroll
+Code Syntax Highlighting
+Animated Page Loader
+Password Input with Show/Hide Toggle
+Image Carousel with Caption Animation
+Data Pagination with Page Numbers
+Audio Player with Equalizer
+Color Palette Selector
+Animated Floating Labels for Form Inputs
+Social Media Feed Integration
+Thumbnail Grid Gallery
+Drag and Drop File Upload
+Fullscreen Overlay Menu
+Responsive Carousel Slider
+Video Thumbnail Generator
+Content Expansion Panel
+QR Code Generator
+Code Snippet Viewer
+Image Cropping and Resizing
+Dark Mode Toggle
+Animated Scroll-to-Top Button
+Interactive World Map
+Slideshow Presentation
+Responsive Timeline
+Product Comparison Table
+Carousel with Lazy Loading
+Virtual Scroll
+Kanban Board
+Pie Chart with Tooltip
+Form Input Masking
+Animated Typewriter Text
+Animated Progress Indicator
+File Explorer Component
+Password Reset Form
+Drag and Drop List
+Carousel with Thumbnail Navigation and Autoplay
+Syntax Highlighting Editor
+Tree View Component
+Video Background with Overlay Content
+Interactive Quiz Component
+Dynamic Form Builder
+Scroll-to-Reveal Animation on Section Entry
+Form Field Validation with Error Messages
+Interactive Poll Component
+Multi-Column Layout
+Kanban Board with Drag and Drop Functionality

@@ -1,0 +1,10 @@
+1. LED Blink: A simple circuit that blinks an LED on and off at a predetermined rate.
+2. Button Controlled LED: A circuit that turns an LED on or off based on the state of a push-button switch.
+3. Light Sensor: A circuit that detects the intensity of light using a light-dependent resistor (LDR) and turns on an LED accordingly.
+4. Temperature Sensor: A circuit that measures the ambient temperature using a temperature sensor (such as a TMP36) and displays it on an LCD screen.
+5. Servo Motor Control: A circuit that controls the position of a servo motor using a potentiometer or other input device.
+6. Ultrasonic Distance Sensor: A circuit that uses an ultrasonic sensor to measure the distance to an object and displays it on an LCD screen or triggers an alarm at a certain threshold.
+7. Sound Activated LED: A circuit that turns on an LED when a certain sound level is detected using a microphone or sound sensor module.
+8. Motor Speed Control: A circuit that controls the speed of a DC motor using a potentiometer or other input device.
+9. RFID Access Control: A circuit that uses an RFID reader to grant access to a certain area or activate/deactivate a device based on authorized RFID tags.
+10. Bluetooth Controlled LED: A circuit that allows you to control an LED using a smartphone or other Bluetooth-enabled device.

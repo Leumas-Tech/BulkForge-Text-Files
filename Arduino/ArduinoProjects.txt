@@ -1,0 +1,50 @@
+1. LED Blink
+2. Button Control
+3. Temperature Sensor
+4. Light Sensor
+5. Ultrasonic Distance Sensor
+6. Servo Motor Control
+7. Potentiometer Control
+8. LCD Display
+9. Sound Sensor
+10. PIR Motion Sensor
+11. RGB LED Control
+12. DHT11 Temperature and Humidity Sensor
+13. RFID Reader
+14. Gas Sensor
+15. Flame Sensor
+16. Moisture Sensor
+17. Water Level Sensor
+18. IR Remote Control
+19. Keypad Input
+20. Stepper Motor Control
+21. DC Motor Control
+22. Joystick Control
+23. Accelerometer Sensor
+24. Gyroscope Sensor
+25. Magnetometer Sensor
+26. Heart Rate Sensor
+27. GPS Module
+28. Bluetooth Communication
+29. Wi-Fi Communication
+30. Ethernet Communication
+31. RFID Door Lock
+32. Smart Home Automation
+33. Weather Station
+34. Digital Clock
+35. Music Player
+36. Motorized Camera Slider
+37. Robotic Arm Control
+38. Line Follower Robot
+39. Obstacle Avoidance Robot
+40. Bluetooth Controlled Car
+41. Wireless Power Transfer
+42. Internet of Things (IoT) Alarm System
+43. Automatic Plant Watering System
+44. Home Security System
+45. Garage Door Opener
+46. Power Monitoring System
+47. Weather Monitoring System
+48. Smart Doorbell
+49. Solar Tracker System
+50. Touchless Hand Sanitizer Dispenser

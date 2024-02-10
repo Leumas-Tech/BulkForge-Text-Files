@@ -1,0 +1,100 @@
+**ImageUploader** - Component for drag-and-drop image uploading with preview.
+**VoiceToTextComponent** - Transcribes voice to text in real-time.
+**LoginPageTemplate** - Customizable login page with validation.
+**SocialLoginButtons** - Buttons for login via Facebook Google etc.
+**PaymentButtons** - Quick payment buttons for services like PayPal Stripe.
+**GalleryView** - A responsive image gallery with modal view options.
+**SlideshowComponent** - Auto-playing slideshow with customizable transitions.
+**DateTimePicker** - Date and time selection component.
+**ColorPicker** - Interactive color picker for UI customization.
+**FileDownloader** - Download button for files with progress indication.
+**FeedbackForm** - User feedback submission form with rating.
+**InteractiveMap** - Map view for selecting locations or displaying data.
+**MultiStepForm** - Form with step-by-step completion and validation.
+**NotificationSystem** - Customizable popup notifications with varying priorities.
+**ProgressBar** - Animated progress bar for task completion visualization.
+**CountdownTimer** - Countdown component for events or deadlines.
+**CarouselComponent** - Image carousel with customizable animations.
+**DataTable** - Table component for displaying complex data sets.
+**TreeView** - Visual representation of a tree hierarchy or structure.
+**PricingTable** - Comparison table for different subscription plans.
+**ToDoList** - Interactive to-do list with CRUD operations.
+**WeatherWidget** - Displays weather information using external API.
+**RSSFeedParser** - Parses and displays feed from an RSS source.
+**ChatBox** - Real-time chat interface for user communication.
+**PortfolioShowcase** - Display portfolio items with filtering options.
+**CouponCodeInput** - Input field for validating coupon codes.
+**FAQAccordion** - Accordion view for FAQ section.
+**UserProfileCard** - Displays user information in a card layout.
+**VideoPlayer** - Customizable video player with controls.
+**AudioPlayer** - Player for streaming audio with playlist support.
+**BarcodeScanner** - Component for scanning and decoding barcodes.
+**EmailVerificationInput** - Sends & validates an email for verification.
+**DynamicFormBuilder** - Builds forms dynamically based on JSON input.
+**BreadcrumbNavigation** - Visual navigation aid showing the user's location.
+**CustomAlerts** - Stylish alert dialogs with rich features.
+**ContentEditable** - Makes an element's text easily editable.
+**DragAndDropList** - Allows reordering of a list via drag-and-drop.
+**PieChart** - Displays data in a pie chart customizable.
+**GeoLocation** - Fetches and displays user's location information.
+**PaginationControls** - Navigational component for paginated content.
+**SEOAnalyzer** - Inputs website data and provides SEO feedback.
+**ProductZoomViewer** - Allows detailed zooming on product images.
+**SocialSharingButtons** - Easy social media sharing for content.
+**CopyToClipboard** - Button to copy text to clipboard.
+**QRCodeGenerator** - Generates QR codes from inputted text.
+**GridLayoutManager** - Drag-and-drop grid layout manager.
+**AutocompleteInput** - Predictive text input field.
+**MasonryLayout** - Responsive column-based layout for items.
+**ModalPopup** - Customizable modal for alerts forms or information.
+**TagInput** - Input for generating and displaying tags.
+**DashboardTemplate** - Basic dashboard layout with widgets.
+**AnimatedText** - Text with animation effects for emphasis.
+**InteractiveTimeline** - Timeline view for displaying chronological content.
+**StickyHeader** - Header that remains visible on page scroll.
+**ImageFilters** - Apply filters like sepia blur on images.
+**RecipeCard** - Display recipe details in a neat card layout.
+**SurveyBuilder** - Tool for creating and managing surveys.
+**AvatarUploader** - Upload and crop images for avatars.
+**LoadingSpinner** - Various customizable loading animations.
+**TestimonialSlider** - Slider to display client testimonials.
+**LanguageSelector** - Drop-down for selecting application language.
+**DarkModeToggle** - Switch between dark and light modes.
+**CreditCardForm** - Form specialized for credit card input.
+**SitemapGenerator** - Generates and displays a website's sitemap.
+**FloatingActionButton** - Material Design-inspired button for primary actions.
+**TermsAndConditionsModal** - Displays T&C in a scrollable modal.
+**TypingEffect** - Creates a typing animation for text content.
+**CodeSnippetHighlighter** - Syntax highlighting for code snippets.
+**InteractivePieChart** - Pie chart with clickable segments.
+**PasswordStrengthMeter** - Visual indicator of password strength.
+**BreadcrumbJSON-LD** - SEO-friendly breadcrumb schema in JSON-LD.
+**DeviceDetector** - Detects user's device type and renders accordingly.
+**CustomScrollbar** - Stylish scrollbars for overflow content.
+**AnimatedBackground** - Background with moving or interactive animations.
+**TableOfContents** - Dynamically creates a table of contents.
+**HorizontalTimeline** - Displays events in a horizontal timeline.
+**CollapsiblePanel** - Panel that expands/collapses on click.
+**StarRatingComponent** - For users to rate content.
+**ParallaxScrolling** - Visual effect that creates a sense of depth.
+**CustomStepper** - Stepper component for process flows.
+**HeatMap** - Displays data intensity on a map.
+**UserTourGuide** - Guides new users through the interface.
+**FlipCard** - Flip animation for content cards.
+**ReadMoreReadLess** - Expand/collapse text content.
+**ClipboardHistory** - UI to display recently copied items.
+**DoughnutChart** - Circular chart for data representation.
+**ToggleSwitch** - Customizable toggle switch UI.
+**InfiniteScroll** - Load content as user scrolls down.
+**EmailComposer** - Simple component to draft emails.
+**CalendarScheduler** - Interactive calendar for scheduling.
+**TreeViewMenu** - Menu that displays items in a tree structure.
+**ContextMenu** - Right-click context menu for actions.
+**TabbedInterface** - Tabs for switching between content panels.
+**EmojiPicker** - Allows users to select emojis.
+**InputWithValidation** - Input field with live validation.
+**CoinFlipAnimation** - Animate a coin flip decision.
+**ProductGrid** - Displays products in a grid format.
+**AccordionList** - List items that expand/collapse on click.
+**CascadingDropdowns** - Dropdowns with dependency logic.
+**VRImageViewer** - View images in VR mode.

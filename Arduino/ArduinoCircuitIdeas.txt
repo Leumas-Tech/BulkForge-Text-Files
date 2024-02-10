@@ -1,0 +1,50 @@
+1. Smart Light Switch Circuit: This circuit uses an esp8266 MCU to control the switching of lights in your home. It can be controlled via a smartphone app or web interface.
+2. Smart Thermostat Circuit: This circuit allows you to control the temperature of your home remotely. It uses an esp8266 MCU and a temperature sensor.
+3. Smart Door Lock Circuit: This circuit uses an esp8266 MCU to control a servo motor that locks and unlocks your door. It can be controlled remotely via a smartphone app or web interface.
+4. Smart Garage Door Opener Circuit: This circuit uses an esp8266 MCU to control a garage door opener. It can be controlled remotely via a smartphone app or web interface.
+5. Smart Window Blind Controller Circuit: This circuit uses an esp8266 MCU to control the opening and closing of window blinds. It can be controlled remotely via a smartphone app or web interface.
+6. Smart Watering System Circuit: This circuit uses an esp8266 MCU to control a watering system for your plants. It can be controlled remotely via a smartphone app or web interface.
+7. Smart Security System Circuit: This circuit uses an esp8266 MCU and various sensors (like motion sensors, door/window sensors) to create a security system for your home. It can be controlled and monitored remotely via a smartphone app or web interface.
+8. Smart Smoke Detector Circuit: This circuit uses an esp8266 MCU and a smoke sensor to alert you if there is smoke in your home. It can be monitored remotely via a smartphone app or web interface.
+9. Smart Energy Monitor Circuit: This circuit uses an esp8266 MCU and a current sensor to monitor the energy usage in your home. It can be monitored remotely via a smartphone app or web interface.
+10. Smart Humidity and Temperature Monitor Circuit: This circuit uses an esp8266 MCU and a humidity and temperature sensor to monitor the humidity and temperature in your home. It can be monitored remotely via a smartphone app or web interface.
+1. Arduino ESP8266 WiFi Smart Home Automation: This circuit allows you to control appliances from anywhere in the world. It uses ESP8266 Wi-Fi module and Arduino UNO.
+2. Arduino ESP8266 IoT Room Temperature Monitor: This circuit uses a temperature sensor to monitor room temperature and send the data to a smartphone via WiFi.
+3. Arduino ESP8266 Smart Light Switch: This circuit allows you to control your home's lighting from your smartphone.
+4. Arduino ESP8266 Home Security System: This circuit uses a PIR motion sensor to detect movement in your home and send alerts to your smartphone.
+5. Arduino ESP8266 Automated Irrigation System: This circuit allows you to automate your home's irrigation system, controlling it from your smartphone.
+6. Arduino ESP8266 Smart Garage Door Opener: This circuit allows you to control your garage door from your smartphone.
+7. Arduino ESP8266 WiFi Smoke Alarm: This circuit uses a smoke detector to alert you on your smartphone if there is smoke in your home.
+8. Arduino ESP8266 Smart Power Outlet: This circuit allows you to control your home's power outlets from your smartphone.
+9. Arduino ESP8266 Smart Water Heater Controller: This circuit allows you to control your water heater from your smartphone.
+10. Arduino ESP8266 WiFi Air Quality Monitor: This circuit uses an air quality sensor to monitor the air quality in your home and send the data to your smartphone.
+1. Smart Home Automation using Arduino and ESP8266: This circuit uses the ESP8266 module to connect to the internet and control home appliances via smartphone. 
+2. IoT Based Temperature and Humidity Monitoring using Arduino and ESP8266: This circuit uses a DHT11 sensor to measure temperature and humidity, and sends the data to a smartphone via the internet.
+3. WiFi Controlled LED using Arduino and ESP8266: This circuit allows you to control an LED light using a smartphone connected to the internet.
+4. IoT Based Water Level Indicator using Arduino and ESP8266: This circuit uses an ultrasonic sensor to measure the water level in a tank, and sends the data to a smartphone via the internet.
+5. Smart Door Lock using Arduino and ESP8266: This circuit allows you to lock or unlock a door using a smartphone connected to the internet.
+6. IoT Based Motion Detector using Arduino and ESP8266: This circuit uses a PIR sensor to detect movement, and sends an alert to a smartphone via the internet.
+7. Smart Irrigation System using Arduino and ESP8266: This circuit uses a soil moisture sensor to measure the moisture level in soil, and turns on a water pump when the soil is dry.
+8. IoT Based Gas Leakage Detector using Arduino and ESP8266: This circuit uses a gas sensor to detect a gas leak, and sends an alert to a smartphone via the internet.
+9. Smart Energy Meter using Arduino and ESP8266: This circuit measures the energy consumption of your home appliances, and sends the data to a smartphone via the internet.
+10. IoT Based Fire Alarm System using Arduino and ESP8266: This circuit uses a flame sensor to detect a fire, and sends an alert to a smartphone via the internet.
+1. Smart Home Security System: This circuit can be used to build a security system that sends alerts to your phone whenever a door or window is opened in your home.
+2. Smart Thermostat: This circuit can be used to control the temperature of your home remotely using your smartphone.
+3. Smart Lighting System: This circuit can be used to control the lighting of your home remotely. You can turn on/off the lights and even change their color using your smartphone.
+4. Smart Smoke Detector: This circuit can be used to build a smoke detector that sends alerts to your phone whenever it detects smoke in your home.
+5. Smart Watering System: This circuit can be used to automate the watering of your plants. You can schedule the watering times and monitor the moisture levels of the soil using your smartphone.
+6. Smart Door Lock: This circuit can be used to build a door lock that can be controlled remotely using your smartphone. You can lock/unlock your door from anywhere in the world.
+7. Smart Power Outlet: This circuit can be used to control the power outlets in your home remotely. You can turn on/off any device connected to these outlets using your smartphone.
+8. Smart Garage Door Opener: This circuit can be used to control your garage door remotely. You can open/close your garage door using your smartphone.
+9. Smart Energy Monitor: This circuit can be used to monitor the energy consumption of your home. You can track the energy usage of different appliances and save on your electricity bills.
+10. Smart Fire Alarm: This circuit can be used to build a fire alarm that sends alerts to your phone whenever it detects fire in your home.
+1. Smart Home Automation with ESP8266 and Motion Sensor: This circuit uses a PIR motion sensor to detect movement and sends notifications to your smartphone.
+2. ESP8266 Based Temperature Sensor for Home Automation: This circuit uses a DHT11 or DHT22 temperature sensor to monitor room temperature and humidity, and displays the data on a smartphone app.
+3. Smart Light Switch Circuit with ESP8266: This circuit allows you to control your home lighting system remotely from your smartphone.
+4. Smart Watering System with ESP8266: This circuit uses a soil moisture sensor to monitor the moisture level of your plants and automatically waters them when needed.
+5. ESP8266 Based Smart Plug for Home Automation: This circuit allows you to control any home appliance remotely from your smartphone.
+6. Smart Door Lock with ESP8266: This circuit allows you to lock and unlock your doors remotely from your smartphone.
+7. ESP8266 Based Smart Garage Door Opener: This circuit allows you to open and close your garage door remotely from your smartphone.
+8. Smart Home Security System with ESP8266: This circuit uses door/window sensors and a PIR motion sensor to monitor your home for any security breaches and sends notifications to your smartphone.
+9. ESP8266 Based Smart Smoke Detector: This circuit uses a smoke sensor to monitor your home for any signs of smoke or fire and sends notifications to your smartphone.
+10. Smart Home Energy Monitoring System with ESP8266: This circuit monitors the energy consumption of your home appliances and displays the data on a smartphone app. 

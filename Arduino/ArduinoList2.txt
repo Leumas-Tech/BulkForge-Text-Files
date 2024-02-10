@@ -1,0 +1,20 @@
+1. Bluetooth-controlled robotic arm
+2. Temperature and humidity monitor
+3. RFID-based door lock system
+4. GPS tracking device
+5. Light-sensitive automatic blinds
+6. Soil moisture sensor for plant watering
+7. PIR motion sensor alarm system
+8. Ultrasonic distance measurement
+9. Color sorting machine
+10. Obstacle avoiding robot
+11. Digital thermometer
+12. Wireless weather station
+13. Heart rate monitor
+14. Automatic pet feeder
+15. Bluetooth-controlled LED strip lights
+16. Arduino-based home automation system
+17. Smart garage door opener
+18. Air quality monitor
+19. Line-following robot
+20. Voice-controlled home automation

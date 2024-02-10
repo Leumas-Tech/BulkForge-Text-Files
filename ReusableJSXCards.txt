@@ -1,0 +1,100 @@
+**Minimalist Business Contact Card** - Clean lines sparse use of color.
+**Creative Portfolio Showcase Card** - Dynamic shapes vibrant images.
+**Tech Startup Feature Card** - Sleek modern with tech-inspired elements.
+**Health & Wellness Tip Card** - Calming colors rounded corners.
+**Eco-Friendly Product Card** - Earth tones natural textures.
+**Fashion Lookbook Card** - High contrast large typography.
+**Luxury Real Estate Listing Card** - Elegant fonts subtle animations.
+**Travel Destination Highlight Card** - Beautiful landscapes serif fonts.
+**Educational Course Card** - Bright colors clear icons.
+**Recipe Instruction Card** - Grid layout for ingredients and steps.
+**Photography Portfolio Card** - Full-screen images with hover effects.
+**Music Album Feature Card** - Dark theme neon accents.
+**Event Countdown Card** - Interactive timer engaging background.
+**Cultural Festival Card** - Bold colors traditional patterns.
+**Sports Team Player Card** - Team colors player stats highlights.
+**Science Innovation Card** - Futuristic design data visualizations.
+**Children’s Storybook Card** - Cartoon illustrations playful fonts.
+**Vintage Collectible Card** - Textured background retro fonts.
+**Pet Adoption Profile Card** - Heartwarming photos soft color palette.
+**Adventure Activity Card** - High adrenaline images bold text.
+**Cocktail Recipe Card** - Elegant thematic illustrations.
+**Holiday Greeting Card** - Seasonal motifs personalizable text.
+**Wedding Invitation Card** - Romantic design script typography.
+**Job Vacancy Announcement Card** - Professional clear layout.
+**Gaming Character Card** - Dynamic backgrounds character stats.
+**Cinematic Movie Card** - Movie stills dark theme.
+**Art Gallery Piece Card** - Minimalist focus on artwork.
+**Non-Profit Cause Card** - Emotive imagery impactful statistics.
+**Space Exploration Card** - Stars galaxies background sleek data points.
+**User Testimonial Card** - Quotes layout credibility badges.
+**Celebrity Profile Card** - Glamorous magazine style.
+**News Highlight Card** - Urgent color scheme news iconography.
+**DIY Project Card** - Step-by-step imagery materials list.
+**Fashion Accessory Card** - Close-up shots detailed descriptions.
+**Nutrition Fact Card** - Clean table layout health icons.
+**Infographic Summary Card** - Bold graphics minimal text.
+**Language Learning Card** - Visual cues native pronunciation playback.
+**Daily Motivation Card** - Inspiring quote serene imagery.
+**Personal Finance Tip Card** - Graphs budget-friendly colors.
+**Gourmet Food Discovery Card** - Exquisite dishes fine dining aura.
+**Local Business Feature Card** - Community vibe map integration.
+**Podcast Episode Card** - Audio wave visual guest photo.
+**VR Experience Card** - 3D design elements futuristic fonts.
+**Online Course Registration Card** - Organized course details enroll button.
+**Book Review Card** - Rating system snippet from review.
+**Travel Gear Recommendation Card** - Product carousel rugged look.
+**Workshop Announcement Card** - Engaging call to action button.
+**Meetup Event Card** - Social network icons RSVP counter.
+**Cosplay Character Card** - Vibrant costumes character lore.
+**Gardening Tip Card** - Seasonal advice lovely garden visuals.
+**Fitness Challenge Card** - Progress tracker motivational slogans.
+**Historical Event Card** - Timeline visual vintage photos.
+**Anime Episode Feature Card** - Bright colors character avatars.
+**Coffee Blend Review Card** - Coffee bean textures tasting notes.
+**Startup Pitch Card** - Elevator pitch key benefits.
+**Environmental Awareness Card** - Earth visuals green facts.
+**Fantasy Football Card** - Player mockups team stats.
+**Film Festival Schedule Card** - Date countdown festival branding.
+**Drawing Tutorial Card** - Step-wise illustrations tool list.
+**Interior Design Idea Card** - Room layouts color schemes.
+**K-Pop Idol Profile Card** - Neon glow fan stats.
+**Math Puzzle Card** - Interactive problem solution reveal.
+**Hiking Trail Card** - Topographic details difficulty rating.
+**Mobile App Feature Card** - App screenshots download CTA.
+**Wildlife Fact Card** - Animal trivia habitat info.
+**Craft Beer Profile Card** - Brewery branding flavor spectrum.
+**Astrology Sign Card** - Zodiac facts star patterns.
+**Startup Team Member Card** - Role descriptions fun facts.
+**Home DIY Project Card** - Before/after slider project complexity.
+**Music Festival Lineup Card** - Band logos performance times.
+**eSports Tournament Card** - Gamer tags match schedule.
+**Conspiracy Theory Card** - Mysterious designs discussion prompts.
+**Geographic Trivia Card** - Country flags landmarks.
+**Ancient Civilization Card** - Ruins imagery key facts.
+**Programming Language Card** - Syntax highlights use case.
+**Urban Legend Card** - Spooky artwork tale summary.
+**Vehicle Spec Card** - Sleek car photos performance data.
+**Fashion Trend Forecast Card** - Upcoming season's colors textures.
+**Holiday Recipe Card** - Festive ingredients preparation steps.
+**Chess Opening Card** - Board setup strategy tips.
+**Sustainable Living Tip Card** - Eco-friendly habits green icons.
+**Cycling Route Card** - Path visuals elevation profile.
+**Rock Climbing Route Card** - Difficulty level crag photos.
+**Movie Quote Card** - Iconic lines film scenes.
+**Beer Brewing Process Card** - Step visuals ingredient list.
+**World Record Fact Card** - Record details achievement photo.
+**Funny Pet Photo Card** - Hilarious captions cute images.
+**Celebrity Fashion Look Card** - Red carpet shots get the look.
+**Archaeological Find Card** - Artifact images discovery story.
+**Philosophical Thought Card** - Famous quotes thinker portraits.
+**User Feedback Card** - Rating stars customer comments.
+**Science Experiment Card** - Hypothesis method result layout.
+**Coding Challenge Card** - Problem statement solution rationale.
+**Vintage Ad Reimagining Card** - Retro products modern twist.
+**Skateboarding Trick Card** - Trick name step-by-step guide.
+**Architecture Inspiration Card** - Iconic buildings design principles.
+**Travel Packing List Card** - Checklist format destination specific.
+**Music Genre Exploration Card** - History key artists.
+**Language Phrase Card** - Common phrases pronunciation guide.
+**Mindfulness Exercise Card** - Step-by-step relaxation techniques.
